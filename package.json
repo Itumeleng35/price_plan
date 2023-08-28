@@ -27,7 +27,7 @@
   ],
   "scripts": {
     "dev": "",
-    "test": ""
+    "start": "node index.js"
   },
   "dependencies": {
 
