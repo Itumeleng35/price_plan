@@ -1,0 +1,1 @@
+insert into price_plan (plan_name, sms_price, call_price) values ('call 201', 1.85, 0.85);
